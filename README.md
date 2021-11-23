@@ -3,7 +3,7 @@
 This repo contains the code for the blog post Zemata.
 Zemata discusses the proposed architecture for an online news platform. 
 
-##Blog
+## Blog
 
 + [Design](https://ehienabs.notion.site/DESIGN-9635e5ae1a644fa18e57ba43ae985b17)
 + [The Services](https://ehienabs.notion.site/THE-SERVICES-85144cc64ee14754b5e08e498b5dcf81)
