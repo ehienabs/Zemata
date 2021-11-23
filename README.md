@@ -1,4 +1,4 @@
-# zemata
+# Zemata
 
 This repo contains the code for the blog post  **Zemata**.
 
