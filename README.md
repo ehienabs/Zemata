@@ -1,6 +1,7 @@
 # zemata
 
 This repo contains the code for the blog post Zemata.
+
 Zemata discusses the proposed architecture for an online news platform. 
 
 ## Blog
