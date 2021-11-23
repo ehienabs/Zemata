@@ -1,6 +1,6 @@
 # zemata
 
-This repo contains the code for the blog post Zemata.
+This repo contains the code for the blog post  **Zemata**.
 
 Zemata discusses the proposed cloud architecture for an online news platform to be deployed on Google Cloud Platform. 
 
