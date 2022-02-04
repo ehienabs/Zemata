@@ -14,3 +14,4 @@ Zemata discusses the proposed cloud architecture for an online news platform to 
 ## Other Blogs
 
 + [Chatops](https://ehienabs.notion.site/Chatops-a309709ab6634171ab129689dc5ba15d)
++ [Syncing Slack user group aliases with pagerduty on-call schedule](https://www.notion.so/ehienabs/Syncing-Slack-User-groups-Aliases-with-Pagerduty-On-call-Schedule-0b701f98ef7742ea9fb9b6ba8da6f4f0)
